@@ -1,6 +1,6 @@
 name: appsyncmasterclass
 schema : schema.api.graphql
-authenticationType: AMAZON_COGNITO_USER_POOL
+authenticationType: AMAZON_COGNITO_USER_POOLS
 userPoolConfig: 
   awsRegion: us-east-1
   defaultAction: ALLOW
